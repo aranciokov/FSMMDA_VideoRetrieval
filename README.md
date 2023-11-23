@@ -4,7 +4,7 @@ In this repo, we provide code and pretrained models for the paper ["**A Feature-
 ![Overview of the proposed multimodal data augmentation technique working on latent representations.](https://github.com/aranciokov/FSMMDA_VideoRetrieval/blob/images/teaser.png?raw=true)
 
 #### Python environment
-Requirements: python 3, allennlp 2.8.0, h5py 3.6.0, pandas 1.3.5, spacy 2.3.5, torch 1.7.0 (also tested with 1.8), numpy 1.23.1, tensorboard
+Requirements: python 3, allennlp 2.8.0, h5py 3.6.0, pandas 1.3.5, spacy 2.3.5, torch 1.7.0 (also tested with 1.8), numpy 1.23.1, tensorboard, tqdm
 ```
 # clone the repository
 cd FSMMDA_VideoRetrieval
